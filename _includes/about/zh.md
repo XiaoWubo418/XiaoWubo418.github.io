@@ -7,6 +7,9 @@ Hey，我是小雾博（XiaoWubo, _2010965900@qq.com_），我是一个中国安
 目前，我想学习一些网络上的相关内容。虚拟分身日常出没于QQ、微信、[B站](https://space.bilibili.com/2022181775?spm_id_from=333.1007.0.0)、[Github](https://github.com/XiaoWubo418) 等。
 
 我的QQ号是：2010965900
+
 我的邮箱是:2010965900@qq.com
+
 我的微信号是：xub4182
+
 我的原神UID是:308736938
