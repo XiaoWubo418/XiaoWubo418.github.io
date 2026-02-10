@@ -4,4 +4,4 @@ Hey，我是小雾博（XiaoWubo, _2010965900@qq.com_），我是一个中国安
 
 我喜爱搞一些玩机项目，比如安卓的解BL锁(BootLoader Lock)，苹果的越狱，我喜欢刷一些各种各样的系统，比如说Windows，MoKee，我认为它非常的有趣，我喜欢这个过程，并且我通常解BL锁之后会刷root权限，以此满足我对数码开发的需要。
 
-目前，我想学习一些网络上的相关内容。虚拟分身日常出没于QQ、微信、[B站](https://space.bilibili.com/2022181775?spm_id_from=333.1007.0.0))、[Github](https://github.com/XiaoWubo418) 等。
+目前，我想学习一些网络上的相关内容。虚拟分身日常出没于QQ、微信、[B站](https://space.bilibili.com/2022181775?spm_id_from=333.1007.0.0)、[Github](https://github.com/XiaoWubo418) 等。
