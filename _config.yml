@@ -1,11 +1,11 @@
 # Site settings
 title: 小雾博
-SEOTitle: 小雾博的博客 | 小雾博
+SEOTitle: 小雾博的主网站 | 小雾博
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+email: 2010965900@qq.com
+description: "这里是 小雾博 的个人主网站，与你一起发现更大的世界"
+keyword: "小雾博, 永无止境的爱, 心烦意乱, 阿白, 和平精英, @小雾博, 小雾博的主网站, XiaoWubo, 坤鹏, 个人网站, 互联网, Web, JavaScript, 原神, 我的世界, 前端, 设计"
+url: "https://xiaowubo418.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: XiaoWubo
+zhihu_username: XiaoWubo
+github_username: XiaoWubo
+twitter_username: XiaoWubo
+#facebook_username:  XiaoWubo
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -68,14 +68,10 @@ netease_comment: false
 # Baidu Analytics
 # ba_track_id: [your track id]
 
-# Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
-
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "成为一个root大牛"
+sidebar-avatar: xiaowubo.jpg # use absolute URL, seeing it's used in both `/` and `/abou/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -87,16 +83,3 @@ service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
-
-# Friends
-friends:
-  [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
-  ]
