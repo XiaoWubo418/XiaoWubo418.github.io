@@ -5,3 +5,8 @@ I am currently studying at a school in Anhui, China. My hobbies include playing 
 I love doing gadget projects, such as unlocking the BootLoader on Android devices and jailbreaking iPhones. I enjoy flashing different systems like Windows and MoKee. I find it very interesting and enjoy the process. Usually, after unlocking the BootLoader, I also root the device to fulfill my needs for digital development.
 
 Currently, I want to learn more about networking-related topics online. My virtual counterparts frequently appear on [QQ](https://im.qq.com/index/#/), [WeChat](https://weixin.qq.com/), [Bilibil](https://space.bilibili.com/2022181775?spm_id_from=333.1007.0.0),[Github](https://github.com/XiaoWubo418), etc.
+
+My QQ number is: 2010965900
+My email is: 2010965900@qq.com
+My WeChat ID is: xub4182
+My Genshin Impact UID is: 308736938
