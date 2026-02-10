@@ -1,0 +1,15 @@
+---
+layout: post
+title: "《小雾博的自我介绍》"
+author: "小雾博"
+header-style: text
+catalog: true
+tags:
+    -Web
+    -JavaScript
+---
+
+大家好，我是小雾博(XiaoWubo)。
+我是一个中国安徽人，职业不详。
+不爱热闹，偏爱文字与安静。
+这是我的个人主界面，欢迎访问！
