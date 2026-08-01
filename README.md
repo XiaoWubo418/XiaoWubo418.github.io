@@ -1,4 +1,4 @@
-[Hux Blog](https://huangxuan.me)
+[XiaoWubo](https://xiaowubo418.github.io/)
 ================================
 
 > I never expected this to become popular.
